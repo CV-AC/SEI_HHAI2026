@@ -343,6 +343,16 @@ ul {
   text-decoration: underline;
 }
 
+.acknowledgment-block {
+  text-align: center;
+}
+
+.ack-text {
+  max-width: 860px;
+  margin: 0 auto;
+  font-size: 0.96rem;
+}
+
 .placeholder {
   color: #6f3200;
   font-weight: 700;
